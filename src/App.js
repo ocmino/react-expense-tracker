@@ -2,9 +2,9 @@ import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 import React, { useState } from "react";
 import Logo from "./components/UI/Logo";
-//Test
+
 const DUMMY_EXPENSES = [
-/*   {
+  {
     id: "e1",
     title: "Toilet Paper",
     amount: 94.12,
@@ -29,7 +29,7 @@ const DUMMY_EXPENSES = [
     amount: 1.99,
     date: new Date(2021, 5, 12),
   },
- */
+
 
 ];
 
