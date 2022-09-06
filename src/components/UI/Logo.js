@@ -6,7 +6,7 @@ import './Logo.css';
 
 const Logo = () => {
     return (
-        <div className='logo'>
+        <div className='logo neonText'>
             <h1>Expense Tracker</h1>
         </div>
     );
